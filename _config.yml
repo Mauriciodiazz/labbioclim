@@ -12,7 +12,7 @@ title                    : "Laboratorio de Bioclimatología"
 title_separator          : "-"
 name                     : &name "Laboratorio de Bioclimatología"
 description              : &description "Laboratorio de Bioclimatología desc"
-url                      : https://mauriciodiazz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mauriciodiazz.github.io/labbioclim/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mauriciodiazz.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Modelamiento de nicho, Cambio climático"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
