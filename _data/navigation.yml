@@ -7,18 +7,12 @@
 main:
   - title: "Publicaciones"
     url: /publicaciones/
+   
+  - title: "Estudiantes"
+    url: /estudiantes/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Estudiantes"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Guide"
     url: /markdown/
