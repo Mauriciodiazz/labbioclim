@@ -12,7 +12,7 @@ title                    : "Laboratorio de Bioclimatología"
 title_separator          : "-"
 name                     : &name "Laboratorio de Bioclimatología"
 description              : &description "Laboratorio de Bioclimatología desc"
-url                      : https://mauriciodiazz.github.io/labbioclim/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mauriciodiazz.github.io/labbioclim # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mauriciodiazz.github.io"
 
