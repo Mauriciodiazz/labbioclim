@@ -21,12 +21,12 @@ repository               : "mauriciodiazz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Lab_logo_png.png"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Modelamiento de nicho, Cambio climático"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Xalapa, Veacruz, México"
+  employer         : "Instituto de Ecología A.C."
   uri              : # URL
   email            : "none@example.org" 
 
